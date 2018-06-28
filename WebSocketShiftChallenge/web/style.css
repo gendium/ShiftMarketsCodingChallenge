@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 28, 2018, 12:57:54 AM
+    Author     : GenDium
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    background-color: #f4f4f4;
+}
+
+#wrapper {
+    width: 960px;
+    margin: auto;
+    text-align: center;
+    color: #c0b283;
+}
+
+p {
+    text-align: center;
+}
+
+.button {
+    display: inline;
+    color: #c0b283;
+    background-color: #373737;
+    padding: 8px;
+    margin: auto;
+    border-radius: 8px;
+    box-shadow: none;
+    border: none;
+}
+
+.button:hover {
+    background-color: #dcd0c0;
+}
+.button a, a:visited, a:hover, a:active {
+    color: #dfdce3;
+    text-decoration: none;
+}
+    
